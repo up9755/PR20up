@@ -1,5 +1,5 @@
 # PR20up
-Odločil sem se analizirati podatke o [evidenci nesreč na smučiščih](https://podatki.gov.si/dataset/evidenca-nesrec-na-smuciscih1), ki jih bom pridobil iz [OPSI](https://podatki.gov.si/data/search?open_data=True) (Odprti podatki Slovenije).
+Odločil sem se analizirati podatke o [evidenci nesreč na smučiščih](https://podatki.gov.si/dataset/evidenca-nesrec-na-smuciscih1), ki jih bom pridobil iz [OPSI](https://podatki.gov.si/) (Odprti podatki Slovenije).
 
 Podatki so razdeljeni v dve datoteki, ker se je struktura podatkov leta 2017 spremenila - za iskanje bolj splošnih relacij se podatke iz obeh datotek lahko združi, za bolj podrobne zadeve pa se uporabi podatke iz posamezne datoteke. Skupaj je malo več kot 5000 vnosov.
 
