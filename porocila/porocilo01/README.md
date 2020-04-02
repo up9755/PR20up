@@ -57,4 +57,17 @@ Kot vidimo, je bilo največ ponesrečencev v starostni skupini med 10 in 19 let.
 
 Zanimivo je tudi slediti deležu zvrsti uživanja na snegu (smučanje in deskanje). Kot vidimo, je deskanje relativno popularno med osebami, starimi 10-30 let, pri naslednji starostni skupini pa delež deskarjev že začne padati. Deskarji, starejši od 40 let, skoraj niso več zastopani v statistiki nesreč (predvideno zaradi manjšega števila deskarjev te starosti).
 
+---
+
+#### 4. Spol ponesrečencev
+Kakšno vlogo igra spol pri številu zabeleženih ponesrečencev? Kakšna je distribucija zvrsti glede na spol?
+
+![alt text](./slike/spol_distribucija.png "Porazdelitve zabeleženih nesreč glede na spol in zvrst")
+
+Vidimo, da sta oba spola približno enako zastopana v statistiki nesreč - žensk skupaj 933, moških pa 959. Pri tem je sicer treba povedati, da se za ta izračun uporablja le ena od dveh tabel (n = 1893), saj le ta tabela beleži spole poškodovancev.
+
+Na grafu je zastopanje vsake podskupine predstavljena s ploščino. Vidimo, da je več poškodovanih moških deskarjev kot pa žensk. Seveda pa to ne odgovori na vprašanje, ali so moški deskarji bolj podvrženi nesrečam ali pa je moških deskarjev le več (mogoče je pa tudi oboje res).
+
+---
+
 [1]: https://podatki.gov.si/dataset/evidenca-nesrec-na-smuciscih1
